@@ -208,7 +208,7 @@ class Item extends React.Component {
             <button type="button" class="btn btn-outline-dark" onClick={this.battle}>Battle</button>
             {/* <button type="button" class="btn btn-outline-dark" onClick={this.spawn}>Sell</button> */}
           </div>
-          <div>
+          {/* <div>
             <form class="row g-3">
               <div class="col-auto">
                 <label for="inputPassword2" class="visually-hidden">Password</label>
@@ -218,7 +218,7 @@ class Item extends React.Component {
                 <button type="submit" class="btn btn-primary mb-3">Confirm identity</button>
               </div>
             </form>
-          </div>
+          </div> */}
         </div>
       </div>
     )
