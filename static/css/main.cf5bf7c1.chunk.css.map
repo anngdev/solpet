@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,OACE,iBACF,CAEA,IACE,iBACF,CACA,sBACE,UAAW,CACX,WAAY,CACZ,WAAY,CACZ,aACF","file":"main.cf5bf7c1.chunk.css","sourcesContent":["button {\n  margin-right: 15px;\n}\n\ndiv {\n  margin-bottom: 5px;\n}\n.services-section img {\n  width: 90px;\n  height: 90px;\n  margin: auto;    \n  display: block;\n}"]}
