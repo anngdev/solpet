@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/solpet/static/css/main.a617e044.chunk.css",
+    "main.js": "/solpet/static/js/main.ed5ba072.chunk.js",
+    "main.js.map": "/solpet/static/js/main.ed5ba072.chunk.js.map",
+    "runtime-main.js": "/solpet/static/js/runtime-main.4482a813.js",
+    "runtime-main.js.map": "/solpet/static/js/runtime-main.4482a813.js.map",
+    "static/js/2.443b48af.chunk.js": "/solpet/static/js/2.443b48af.chunk.js",
+    "static/js/2.443b48af.chunk.js.map": "/solpet/static/js/2.443b48af.chunk.js.map",
+    "static/js/3.3b5e7240.chunk.js": "/solpet/static/js/3.3b5e7240.chunk.js",
+    "static/js/3.3b5e7240.chunk.js.map": "/solpet/static/js/3.3b5e7240.chunk.js.map",
+    "index.html": "/solpet/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/solpet/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.443b48af.chunk.js.LICENSE.txt": "/solpet/static/js/2.443b48af.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/solpet/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4482a813.js",
+    "static/js/2.443b48af.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.ed5ba072.chunk.js"
+  ]
+}
